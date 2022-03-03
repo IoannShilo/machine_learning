@@ -1,3 +1,3 @@
 Shilo Ivan Vladimirovich
 
-There is repository to show employers my skills in machine learning.
+This is the repository to show employers my skills in machine learning.
